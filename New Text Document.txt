@@ -6,4 +6,4 @@ All of the items are in the creative tab..
 just one thing the portal to goddymension is made of stongobsidian and the flintandstikk.
 the surfacedurt has no use
 U will need minecraft forge 1.16.4 and no other mod will work with this at the same time.
-First download the mod then add to mods folder and start minecraft, hope u enjoy!!!!
+First download the mod ,extract and put the JAR file in the mods folder. Then add to mods folder and start minecraft, hope u enjoy!!!!
